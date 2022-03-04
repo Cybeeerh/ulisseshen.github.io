@@ -14,14 +14,28 @@ Tecnologia da Informação (TI) é um conjunto de todas as atividades e soluçõ
 
 A TI está na vida das pessoas por meio dos computadores portáteis, computador pessoal e qualquer outro produto eletrônico que resolva problemas reais envolvendo a informação por intermédio do poder computacional que esses dispositivos podem fornecer. Dentre eles podemos citar: calculadora, mp3 player, celular, netbook, notebook, smartphone, etc. O uso efetivo da TI se dá ao fazer uma soma, reproduzir um audio, fazer uma ligação, acessar sites, etc.
 
-## Qual o papel da TI nas Organicações?
+## Qual o papel da TI nas Organizações?
 
 
-Auxilia predominantemente em áreas de negócios de quase todos os segmentos atuais. Para uma empresa do ramo financeiro o uso da TI é visto nas transações bancarias, na facilitação que uma aplicação para o cliente pode ser possível, por exemplo, criar uma conta, fazer transferências, fazer pagamentos. Isso sem sair de casa e com o uso de um smartphone. Há ainda o uso de Inteligência Artificial pelas organizações para ajudar em tomadas de decisões de negócio baseada em varios parâmetros, uma vez que esse serviço geralmente é repetitivo e então é usado sistemas computacionais para deminiur ou o trabalho ou o número de falhas, ou ainda os dois.
+Auxilia predominantemente em áreas de negócios de quase todos os segmentos atuais. Para uma empresa do ramo financeiro o uso da TI é visto nas transações bancarias, na facilitação que uma aplicação para o cliente pode ser possível, por exemplo, criar uma conta, fazer transferências, fazer pagamentos. Isso sem sair de casa e com o uso de um smartphone. Há ainda o uso de Inteligência Artificial pelas organizações para ajudar em tomadas de decisões de negócio baseada em varios parâmetros, uma vez que esse serviço geralmente é repetitivo, então é usado sistemas computacionais para diminuir o trabalho, o número de falhas, ou até mesmo os dois.
 
 ----
 
-## O que foi a Terceira revolução industrial?
+## Como a Guerra fria influenciou a tecnologia ?
+
+![image](míssilV2.jpeg)
+
+
+Foi um período na história com um dos maiores investimentos estatais de pesquisas na área de ciência e tecnologia.
+Vale ressaltar que durante a Segunda Guerra Mundial, a Alemanha Nazista tinha uma ferramenta muito valiosa; a sua tecnologia e o seus conhecimentos científicos que eram muito ricos, o que favoreceu na construção de armas sofisticadas como o foguete V2, foi o primeiro míssil balístico, usado pela alemanha nazista, durante o final da segunda guerra.
+
+Após a queda de Hitler e a derrota de seu exército e governo alemão, além de destruição e um marco horrendo na história, determinando o que um homem pode causar durante uma guerra, ocasionou também como herança, um conhecimento que se tornou crucial para o desenvolvimento tecnológico, que  posteriormente  à Segunda Guerra, tanto o governo norte-americano quanto a União Sovietica, utilizaram a tecnologia desenvolvida para o foguete V2, como base para a corrida espacial e armamentista, culminando na dilatação dos foguetes utilizados na primeira missão do programa espacial soviético, Vostok I, e dos foguetes Saturno, que impulsionaram as naves da Missão Apollo até a Lua. 
+
+Iniciando-se assim era da Guerra Fria, em que Estados Unidos (EUA) e União Soviética (URSS) disputaram a supremacia na exploração do espaço entre 1957 e 1975. 
+Mas o contrário das primeiras duas guerras, a disputa não seria em campos de batalha, mas sim em laboratórios científicos,ocasionando o surgimento do primeiro satélite artificial, e o GPS mudando completamente o cenário da tecnologia, e trazendo-nos as vantagens de desfrutar de aparelhos eletrônicos essências como o nosso Computador e consequentemente a nossa querida Internet nos dias de hoje.
+
+
+## O que foi a Terceira revolução industrial? 
 
 ![image](3a-revolucao.webp)  
 
